@@ -13,9 +13,10 @@ This project performs **Exploratory Data Analysis (EDA)** and builds a **Machine
 - **Random Forest (Tuned)**: 81%
 
 ## 📂 Files in this Repository:
+- `Titanic-Dataset.csv` → Unprocessed dataset
 - `Titanic_EDA.ipynb` → Full Jupyter Notebook
 - `titanic_rf_model.pkl` → Saved model
-- `titanic_cleaned.csv` → Processed dataset
+- `titanic_cleaned.xls` → Processed dataset
 
 ## 🚀 How to Use:
 1. Download `Titanic_EDA.ipynb`.
